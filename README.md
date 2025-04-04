@@ -112,4 +112,5 @@ STEP 2 JavaScript to Trigger Animation and Store Preferences
 </html>
 
 
+
 Happy Coding! 💻✨
